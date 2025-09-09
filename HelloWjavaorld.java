@@ -7,5 +7,8 @@ public class HelloWjavaorld {
         System.out.println(new Date());
         System.out.println("hello");
         System.out.println("Added ine more file");
+        Student student =new Student();
+        student.sayHello();
+
     }
 }
